@@ -70,7 +70,7 @@ Python 3.11 · Django · Django REST Framework · Djoser · PostgreSQL · Gunico
 **Требования:** Docker 24+ и Docker Compose v2.
 
 ```bash
-git clone https://github.com/JuliaDJ1/kittygram_final.git
+git clone https://github.com/vadim-guseinov/kittygram_final.git
 cd kittygram_final
 
 cp .env.example .env          # заполните пароли и SECRET_KEY
